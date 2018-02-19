@@ -1,0 +1,11 @@
+C:\Users\Prakash\source\repos\SinchConsoleApp\SinchConsoleApp\bin\Debug\netcoreapp2.0\SinchConsoleApp.deps.json
+C:\Users\Prakash\source\repos\SinchConsoleApp\SinchConsoleApp\bin\Debug\netcoreapp2.0\SinchConsoleApp.runtimeconfig.json
+C:\Users\Prakash\source\repos\SinchConsoleApp\SinchConsoleApp\bin\Debug\netcoreapp2.0\SinchConsoleApp.runtimeconfig.dev.json
+C:\Users\Prakash\source\repos\SinchConsoleApp\SinchConsoleApp\bin\Debug\netcoreapp2.0\SinchConsoleApp.dll
+C:\Users\Prakash\source\repos\SinchConsoleApp\SinchConsoleApp\bin\Debug\netcoreapp2.0\SinchConsoleApp.pdb
+C:\Users\Prakash\source\repos\SinchConsoleApp\SinchConsoleApp\obj\Debug\netcoreapp2.0\SinchConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Prakash\source\repos\SinchConsoleApp\SinchConsoleApp\obj\Debug\netcoreapp2.0\SinchConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Prakash\source\repos\SinchConsoleApp\SinchConsoleApp\obj\Debug\netcoreapp2.0\SinchConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Prakash\source\repos\SinchConsoleApp\SinchConsoleApp\obj\Debug\netcoreapp2.0\SinchConsoleApp.AssemblyInfo.cs
+C:\Users\Prakash\source\repos\SinchConsoleApp\SinchConsoleApp\obj\Debug\netcoreapp2.0\SinchConsoleApp.dll
+C:\Users\Prakash\source\repos\SinchConsoleApp\SinchConsoleApp\obj\Debug\netcoreapp2.0\SinchConsoleApp.pdb

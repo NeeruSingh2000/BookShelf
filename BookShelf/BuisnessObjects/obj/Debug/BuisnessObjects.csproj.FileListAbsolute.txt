@@ -1,0 +1,5 @@
+C:\Users\Prakash\source\repos\BookShelfPresentationLayer\BuisnessObjects\bin\Debug\BuisnessObjects.dll
+C:\Users\Prakash\source\repos\BookShelfPresentationLayer\BuisnessObjects\bin\Debug\BuisnessObjects.pdb
+C:\Users\Prakash\source\repos\BookShelfPresentationLayer\BuisnessObjects\obj\Debug\BuisnessObjects.csproj.CoreCompileInputs.cache
+C:\Users\Prakash\source\repos\BookShelfPresentationLayer\BuisnessObjects\obj\Debug\BuisnessObjects.dll
+C:\Users\Prakash\source\repos\BookShelfPresentationLayer\BuisnessObjects\obj\Debug\BuisnessObjects.pdb
